@@ -1,0 +1,14 @@
+/* Responsive display styling */
+.container-page {
+  display: flex;
+  flex-direction: column;
+
+}
+
+img {
+  width: 100%;
+}
+
+.shop li {
+list-style: none;
+}
